@@ -18,6 +18,14 @@
 
 <img width="354" alt="Django Server Startup Confirmation - Output Command Prompt - Part 2" src="https://github.com/user-attachments/assets/9c204db9-fabd-4172-b102-cf24df421086">
 
+5. Django Development Server Log - Output(Command Prompt) - Part 1:
+
+<img width="450" alt="Django Development Server Log - Output(Command Prompt) - Part 1" src="https://github.com/user-attachments/assets/24cc4870-1c18-4e4a-964d-2ddd4ee9290d">
+
+6. Output - Django Admin Interface Login Page - Part 2:
+
+<img width="960" alt="Output - Django Admin Interface Login Page - Part 2" src="https://github.com/user-attachments/assets/f335f2b6-e4dd-40d8-95bc-35b9b3ffbed2">
+
 
 
 
