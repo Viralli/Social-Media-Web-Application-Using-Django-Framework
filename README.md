@@ -26,11 +26,10 @@
 
 <img width="960" alt="Output - Django Admin Interface Login Page - Part 2" src="https://github.com/user-attachments/assets/f335f2b6-e4dd-40d8-95bc-35b9b3ffbed2">
 
+7. Output - Django Admin Interface Login Page - Part 3:
 
+<img width="960" alt="Output - Django Admin Interface Login Page - Part 3" src="https://github.com/user-attachments/assets/e1cafa30-fc74-47eb-a99a-7dc40e0d37de">
 
+8. Output - Django Admin Interface Login Page - Part 4:
 
-
-
-
-
-                    
+<img width="459" alt="Output - Django Admin Interface Login Page - Part 4" src="https://github.com/user-attachments/assets/96567270-b4cb-4010-81b4-0a28652aedcc">
