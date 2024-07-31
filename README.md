@@ -33,3 +33,14 @@
 8. Output - Django Admin Interface Login Page - Part 4:
 
 <img width="459" alt="Output - Django Admin Interface Login Page - Part 4" src="https://github.com/user-attachments/assets/96567270-b4cb-4010-81b4-0a28652aedcc">
+
+9. Django Admin Dashboard with Registered Social App - Part 1:
+
+<img width="960" alt="Django Admin Dashboard with Registered Social App Part -1" src="https://github.com/user-attachments/assets/f7714df4-de44-4acd-a89e-8b02a462417a">
+
+10.  Django Admin Dashboard with Registered Social App - Part 2(Command Prompt):
+
+<img width="353" alt="Django Admin Dashboard with Registered Social App Part -2" src="https://github.com/user-attachments/assets/d7366a2b-c7c4-4946-9343-99e9a48e6950">
+
+
+
