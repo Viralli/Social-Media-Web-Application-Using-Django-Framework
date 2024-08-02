@@ -2,45 +2,10 @@
 
 # Outputs:
 
-1. Step 1 - Django project is set up correctly and that the Django development server is running - Output - Part 1:
+1. Django Installation Confirmation and Initial Setup Page - Output
 
-   <img width="960" alt="Step 1 - Django project is set up correctly and that the Django development server is running - Output - Part 1" src="https://github.com/user-attachments/assets/90ed83bf-c12e-4196-b21f-07220a7ae0fa">
+<img width="960" alt="Django Installation Confirmation and Initial Setup Page - Output" src="https://github.com/user-attachments/assets/0f30bd75-1a6a-49a0-b895-1829c7fb4b44">
 
-2. Step 1 - Django project is set up correctly and that the Django development server is running - Output(Command Prompt) - Part 2:
+2. Django Installation Confirmation and Initial Setup Page - Output(Command Prompt)
 
-  <img width="354" alt="Step 1 - Django project is set up correctly and that the Django development server is running - Output(Command Prompt) - Part 2" src="https://github.com/user-attachments/assets/058a1046-431a-4a18-8fbc-1e0b324f9c28">
-
-3. Django Server Startup Confirmation - Output - Part 1:
-
-<img width="960" alt="Django Server Startup Confirmation - Output - Part 1" src="https://github.com/user-attachments/assets/4b6324c3-c559-42e2-bf6b-8c17f5a5ff9c">
-
-4. Django Server Startup Confirmation - Output(Command Prompt)- Part 2:
-
-<img width="354" alt="Django Server Startup Confirmation - Output Command Prompt - Part 2" src="https://github.com/user-attachments/assets/9c204db9-fabd-4172-b102-cf24df421086">
-
-5. Django Development Server Log - Output(Command Prompt) - Part 1:
-
-<img width="450" alt="Django Development Server Log - Output(Command Prompt) - Part 1" src="https://github.com/user-attachments/assets/24cc4870-1c18-4e4a-964d-2ddd4ee9290d">
-
-6. Output - Django Admin Interface Login Page - Part 2:
-
-<img width="960" alt="Output - Django Admin Interface Login Page - Part 2" src="https://github.com/user-attachments/assets/f335f2b6-e4dd-40d8-95bc-35b9b3ffbed2">
-
-7. Output - Django Admin Interface Login Page - Part 3:
-
-<img width="960" alt="Output - Django Admin Interface Login Page - Part 3" src="https://github.com/user-attachments/assets/e1cafa30-fc74-47eb-a99a-7dc40e0d37de">
-
-8. Output - Django Admin Interface Login Page - Part 4:
-
-<img width="459" alt="Output - Django Admin Interface Login Page - Part 4" src="https://github.com/user-attachments/assets/96567270-b4cb-4010-81b4-0a28652aedcc">
-
-9. Django Admin Dashboard with Registered Social App - Part 1:
-
-<img width="960" alt="Django Admin Dashboard with Registered Social App Part -1" src="https://github.com/user-attachments/assets/f7714df4-de44-4acd-a89e-8b02a462417a">
-
-10.  Django Admin Dashboard with Registered Social App - Part 2(Command Prompt):
-
-<img width="353" alt="Django Admin Dashboard with Registered Social App Part -2" src="https://github.com/user-attachments/assets/d7366a2b-c7c4-4946-9343-99e9a48e6950">
-
-
-
+<img width="409" alt="Django Installation Confirmation and Initial Setup Page - Output - Command Prompt" src="https://github.com/user-attachments/assets/e868de14-4225-472a-b5a8-1403d07912f8">
