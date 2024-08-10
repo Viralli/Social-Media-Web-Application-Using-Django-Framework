@@ -22,7 +22,4 @@
 
        1. Homepage:
 
-              ![Home Page - Final Output - Github](https://github.com/user-attachments/assets/1c494c9d-5d95-43b6-afe1-a89eeadba2a4)
-
-    
-
+             <img width="960" alt="Profile - Final Outputs" src="https://github.com/user-attachments/assets/31573f31-92f3-4846-b22d-f951acd421fa">
