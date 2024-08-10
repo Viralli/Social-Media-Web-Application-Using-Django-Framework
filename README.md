@@ -23,6 +23,12 @@ Screenshots
 
             <img width="960" alt="Home Page - Final Output" src="https://github.com/user-attachments/assets/9bf90ce8-c030-476c-8bc1-248565303904">
 
+            <img width="960" alt="Home Page - Final Output" src="https://github.com/user-attachments/assets/43f414af-08bb-4ecb-a639-7133b1ce43e4">
+
+            <img width="960" alt="Home Page - output - github" src="https://github.com/user-attachments/assets/fb7c5f82-72b0-400f-8b90-aa2f25644ab3">
+
+
+
     2. Register Page:
 
             <img width="960" alt="Register - Final Outputs" src="https://github.com/user-attachments/assets/516d6505-021e-4dab-9823-ebcad398eda4">
@@ -41,13 +47,17 @@ Screenshots
 
       Output after uploading the Profile Picture:    <img width="960" alt="Profile - Final Output" src="https://github.com/user-attachments/assets/d5bd73ed-db40-4824-b7fd-0eacf9893123">
 
-   5.  Create Post Page:
+   4.  Create Post Page:
 
        Output before creating a New Post:  <img width="960" alt="Create Post - Final Outputs - Part -1" src="https://github.com/user-attachments/assets/081ebde4-8bdd-446e-b9d9-8399ccc031c8">
 
        Output after creating a New Post:  <img width="960" alt="Create Post - Final Outputs - Part -2" src="https://github.com/user-attachments/assets/2f17eadc-3a3e-4271-9b23-aba99eb9545a">
        
        Output after creating a New Post: <img width="960" alt="Create Post - Final Output" src="https://github.com/user-attachments/assets/9730efaa-aaa8-4abe-85fb-6212ac6cf2df">
+
+     1. Home Page:
+     
+       <img width="960" alt="Home Page - output - github" src="https://github.com/user-attachments/assets/fb7c5f82-72b0-400f-8b90-aa2f25644ab3">
 
     Commands to run to get the outputs:
 
