@@ -24,29 +24,29 @@
 
 2. Register Page:
 
-   <img width="960" alt="Register - Final Output" src="https://github.com/user-attachments/assets/1d8c496d-4fd6-43c1-a150-d9c03e078689">
+   Output: <img width="960" alt="Register - Final Output" src="https://github.com/user-attachments/assets/1d8c496d-4fd6-43c1-a150-d9c03e078689">
 
-   <img width="960" alt="Register - Final Outputs" src="https://github.com/user-attachments/assets/efd9ff9f-7671-45a3-8ff5-6ddf1a5071fb">
+  Output - if the username or email is already registered: <img width="960" alt="Register - Final Outputs" src="https://github.com/user-attachments/assets/efd9ff9f-7671-45a3-8ff5-6ddf1a5071fb">
 
 3. Login Page:
 
-   <img width="960" alt="Login - Final Output" src="https://github.com/user-attachments/assets/68b2abee-b81e-41e7-8bbf-25c657344bff">
+   Output for login: <img width="960" alt="Login - Final Output" src="https://github.com/user-attachments/assets/68b2abee-b81e-41e7-8bbf-25c657344bff">
 
-   <img width="960" alt="Login - Final Outputs" src="https://github.com/user-attachments/assets/5d8418b8-4519-4c1e-8fdc-bf01a34ca5c4">
+   Output if i click on Register here link: <img width="960" alt="Login - Final Outputs" src="https://github.com/user-attachments/assets/5d8418b8-4519-4c1e-8fdc-bf01a34ca5c4">
 
 4. Profile Page:
 
-    <img width="960" alt="Profile - Final Outputs" src="https://github.com/user-attachments/assets/7deab89b-c903-4b8d-ae35-5e6e5676cc4a">
+    Output : Part -1: <img width="960" alt="Profile - Final Outputs" src="https://github.com/user-attachments/assets/7deab89b-c903-4b8d-ae35-5e6e5676cc4a">
 
-     <img width="960" alt="Profile - Final Output" src="https://github.com/user-attachments/assets/23260774-30be-47e0-bf02-0a77991cbd17">
+    Output Part - 2:  <img width="960" alt="Profile - Final Output" src="https://github.com/user-attachments/assets/23260774-30be-47e0-bf02-0a77991cbd17">
 
 5. Create Post Page:
 
-    <img width="960" alt="Create Post - Final Output" src="https://github.com/user-attachments/assets/3700ae5f-7f1d-43d8-af88-fa08aeecfade">
+    Output Part 1 : <img width="960" alt="Create Post - Final Output" src="https://github.com/user-attachments/assets/3700ae5f-7f1d-43d8-af88-fa08aeecfade">
 
-    <img width="960" alt="Create Post - Final Outputs - Part -1" src="https://github.com/user-attachments/assets/1fdcb724-c804-4ca5-bc19-140f54d969c7">
+    Output Part 2: <img width="960" alt="Create Post - Final Outputs - Part -1" src="https://github.com/user-attachments/assets/1fdcb724-c804-4ca5-bc19-140f54d969c7">
 
-    <img width="960" alt="Create Post - Final Outputs - Part -2" src="https://github.com/user-attachments/assets/779023cb-4da6-4cb4-a4a8-78059b28b2a6">
+    Output Part 3: <img width="960" alt="Create Post - Final Outputs - Part -2" src="https://github.com/user-attachments/assets/779023cb-4da6-4cb4-a4a8-78059b28b2a6">
 
 Commands to run:
 
