@@ -19,15 +19,9 @@ Screenshots
 
     Below are screenshots of the application’s key pages:
 
-    1. Homepage:
+    1. Home Page:
 
-            <img width="960" alt="Home Page - Final Output" src="https://github.com/user-attachments/assets/9bf90ce8-c030-476c-8bc1-248565303904">
-
-            <img width="960" alt="Home Page - Final Output" src="https://github.com/user-attachments/assets/43f414af-08bb-4ecb-a639-7133b1ce43e4">
-
-            <img width="960" alt="Home Page - output - github" src="https://github.com/user-attachments/assets/fb7c5f82-72b0-400f-8b90-aa2f25644ab3">
-
-
+               <img width="960" alt="home page" src="https://github.com/user-attachments/assets/8ffea0a1-0509-4db7-a7ac-79692262d240">
 
     2. Register Page:
 
@@ -41,13 +35,18 @@ Screenshots
 
           <img width="960" alt="Login - Final Output" src="https://github.com/user-attachments/assets/211767dc-d074-456d-8ea9-7d06625a5e4e">
 
-   4. Profile Page:
+   1. Profile Page:
 
       Output before uploading the Profile Picture : <img width="960" alt="Profile - Final Outputs" src="https://github.com/user-attachments/assets/725a9e33-148c-4d03-bb45-da4332326b79">
 
       Output after uploading the Profile Picture:    <img width="960" alt="Profile - Final Output" src="https://github.com/user-attachments/assets/d5bd73ed-db40-4824-b7fd-0eacf9893123">
 
-   4.  Create Post Page:
+   2. Home Page:
+
+       <img width="960" alt="Home Page - Final Output" src="https://github.com/user-attachments/assets/3fe6be53-ade1-4a17-b863-756003e55f6b">
+
+
+   3.  Create Post Page:
 
        Output before creating a New Post:  <img width="960" alt="Create Post - Final Outputs - Part -1" src="https://github.com/user-attachments/assets/081ebde4-8bdd-446e-b9d9-8399ccc031c8">
 
@@ -55,9 +54,10 @@ Screenshots
        
        Output after creating a New Post: <img width="960" alt="Create Post - Final Output" src="https://github.com/user-attachments/assets/9730efaa-aaa8-4abe-85fb-6212ac6cf2df">
 
-     1. Home Page:
-     
-       <img width="960" alt="Home Page - output - github" src="https://github.com/user-attachments/assets/fb7c5f82-72b0-400f-8b90-aa2f25644ab3">
+    4.  Home Page:
+
+               <img width="960" alt="Home Page - Final Output" src="https://github.com/user-attachments/assets/3fe6be53-ade1-4a17-b863-756003e55f6b">
+
 
     Commands to run to get the outputs:
 
