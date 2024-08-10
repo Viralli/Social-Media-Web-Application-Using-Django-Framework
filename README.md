@@ -22,4 +22,7 @@
 
        1. Homepage:
 
-              <img width="960" alt="Home Page - Final Output - Github" src="https://github.com/user-attachments/assets/524c33d7-6287-4d44-b42e-8c5dad8c48d0">
+              ![Home Page - Final Output - Github](https://github.com/user-attachments/assets/1c494c9d-5d95-43b6-afe1-a89eeadba2a4)
+
+    
+
