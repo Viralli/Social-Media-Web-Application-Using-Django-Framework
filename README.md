@@ -21,7 +21,7 @@ Screenshots
 
     1. Homepage:
 
-            <img width="960" alt="Home Page - Final Output" src="https://github.com/user-attachments/assets/6fd49d49-62ce-4b04-a7e2-0b7497c3fab9">
+            <img width="960" alt="Home Page - Final Output" src="https://github.com/user-attachments/assets/9bf90ce8-c030-476c-8bc1-248565303904">
 
     2. Register Page:
 
