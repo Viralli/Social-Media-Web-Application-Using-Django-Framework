@@ -64,6 +64,18 @@ Command Prompt Output(Django Server Activity Log):
 
   <img width="478" alt="Command Prompt Output(Django Server Activity Log) - Part 4" src="https://github.com/user-attachments/assets/9bcbf9c8-5282-41b8-b9d0-3f3a4c17da3d">
 
+Django Admin Interface Output:
+
+<img width="960" alt="Django Admin Interface Portal" src="https://github.com/user-attachments/assets/ef3ea888-6219-4f7b-a849-dc690665092f">
+
+Django Admin Interface Output(Before Logging In):
+
+<img width="960" alt="Django Admin Interface Portal - Before Logging In" src="https://github.com/user-attachments/assets/6648f722-088a-4fe6-a77e-7f76f3cbc788">
+
+Django Admin Interface Output(After Logging In):
+
+<img width="960" alt="Django Admin Interface Portal - After Logging In" src="https://github.com/user-attachments/assets/ee713ed0-91bc-47a9-8c79-d4944f48a085">
+
 Django Admin Interface:
 
     The Django Admin interface provides a powerful and user-friendly way to manage application data. Below are some screenshots showcasing the key functionalities available through the admin interface for the 
