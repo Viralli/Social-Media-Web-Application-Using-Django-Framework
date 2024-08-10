@@ -21,19 +21,19 @@ Screenshots
 
     1. Homepage:
 
-      <img width="960" alt="Home Page - Final Output" src="https://github.com/user-attachments/assets/6fd49d49-62ce-4b04-a7e2-0b7497c3fab9">
+            <img width="960" alt="Home Page - Final Output" src="https://github.com/user-attachments/assets/6fd49d49-62ce-4b04-a7e2-0b7497c3fab9">
 
     2. Register Page:
 
-        <img width="960" alt="Register - Final Outputs" src="https://github.com/user-attachments/assets/516d6505-021e-4dab-9823-ebcad398eda4">
+            <img width="960" alt="Register - Final Outputs" src="https://github.com/user-attachments/assets/516d6505-021e-4dab-9823-ebcad398eda4">
 
-        <img width="960" alt="Register - Final Output" src="https://github.com/user-attachments/assets/2abb5341-0066-446a-a245-9b307f92eddb">
+            <img width="960" alt="Register - Final Output" src="https://github.com/user-attachments/assets/2abb5341-0066-446a-a245-9b307f92eddb">
 
     3. Login Page:
 
-       <img width="960" alt="Login - Final Outputs" src="https://github.com/user-attachments/assets/9a6bd154-6113-488d-bead-a63c0278adce">
+          <img width="960" alt="Login - Final Outputs" src="https://github.com/user-attachments/assets/9a6bd154-6113-488d-bead-a63c0278adce">
 
-       <img width="960" alt="Login - Final Output" src="https://github.com/user-attachments/assets/211767dc-d074-456d-8ea9-7d06625a5e4e">
+          <img width="960" alt="Login - Final Output" src="https://github.com/user-attachments/assets/211767dc-d074-456d-8ea9-7d06625a5e4e">
 
    4. Profile Page:
 
