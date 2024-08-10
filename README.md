@@ -26,13 +26,13 @@
 
    Output: <img width="960" alt="Register - Final Output" src="https://github.com/user-attachments/assets/1d8c496d-4fd6-43c1-a150-d9c03e078689">
 
-  Output - if the username or email is already registered: <img width="960" alt="Register - Final Outputs" src="https://github.com/user-attachments/assets/efd9ff9f-7671-45a3-8ff5-6ddf1a5071fb">
+   Output - if the username or email is already registered: <img width="960" alt="Register - Final Outputs" src="https://github.com/user-attachments/assets/efd9ff9f-7671-45a3-8ff5-6ddf1a5071fb">
 
 3. Login Page:
 
    Output for login: <img width="960" alt="Login - Final Output" src="https://github.com/user-attachments/assets/68b2abee-b81e-41e7-8bbf-25c657344bff">
 
-   Output if i click on Register here link: <img width="960" alt="Login - Final Outputs" src="https://github.com/user-attachments/assets/5d8418b8-4519-4c1e-8fdc-bf01a34ca5c4">
+   Output if I click on the Register here link: <img width="960" alt="Login - Final Outputs" src="https://github.com/user-attachments/assets/5d8418b8-4519-4c1e-8fdc-bf01a34ca5c4">
 
 4. Profile Page:
 
