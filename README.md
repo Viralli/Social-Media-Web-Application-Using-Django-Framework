@@ -20,6 +20,6 @@
 
      Below are screenshots of the application’s key pages:
 
-       1. Homepage:
+       1. Home Page:
 
              <img width="960" alt="Profile - Final Outputs" src="https://github.com/user-attachments/assets/31573f31-92f3-4846-b22d-f951acd421fa">
