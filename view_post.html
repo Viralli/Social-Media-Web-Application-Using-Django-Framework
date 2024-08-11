@@ -1,0 +1,33 @@
+{% extends 'base_generic.html' %}
+
+{% load static %}
+
+{% block title %}View Post{% endblock %}
+
+{% block extra_head %}
+    <!-- Link to the stylesheet specific to the view post page -->
+    <link rel="stylesheet" href="{% static 'css/view_post.css' %}">
+{% endblock %}
+
+{% block content %}
+    <header>
+        <h1>View Post</h1>
+        <nav>
+            <ul>
+                <li><a href="{% url 'social_media:home' %}">Home</a></li>
+                <li><a href="{% url 'social_media:register' %}">Register</a></li>
+                <li><a href="{% url 'social_media:login' %}">Login</a></li>
+                <li><a href="{% url 'social_media:profile' %}">Profile</a></li>
+                <li><a href="{% url 'social_media:create_post' %}">Create Post</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.content }}</p>
+        <!-- Add any additional content or post details here -->
+    </main>
+    <footer>
+        <p>&copy; {% now "Y" %} My Social Media App. All rights reserved.</p>
+    </footer>
+{% endblock %}

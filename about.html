@@ -1,0 +1,43 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}About Us{% endblock %}</title>
+    {% block extra_head %}
+        <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    {% endblock %}
+</head>
+<body>
+    <header>
+        <img src="{% static 'images/logo.png' %}" alt="Logo">
+        <h1>About Us</h1>
+        <nav>
+            <ul>
+                <li><a href="{% url 'social_media:home' %}">Home</a></li>
+                <li><a href="{% url 'social_media:about' %}">About</a></li>
+                <li><a href="{% url 'social_media:login' %}">Login</a></li>
+                <li><a href="{% url 'social_media:register' %}">Register</a></li>
+                <li><a href="{% url 'social_media:profile' %}">Profile</a></li>
+                <li><a href="{% url 'social_media:create_post' %}">Create Post</a></li>
+                <!-- Add other navigation links if needed -->
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome to Our Social Media App</h2>
+            <p>This is the About page of our application where you can find information about our project, our goals, and our team.</p>
+            <p>Our application aims to connect people and facilitate communication through social media functionalities. We are dedicated to providing a platform that is both user-friendly and efficient.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; {% now "Y" %} My Social Media App. All rights reserved.</p>
+    </footer>
+    {% block extra_js %}
+        <script src="{% static 'js/scripts.js' %}"></script>
+    {% endblock %}
+</body>
+</html>

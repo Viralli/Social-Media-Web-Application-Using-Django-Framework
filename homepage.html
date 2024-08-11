@@ -1,0 +1,17 @@
+{% extends 'base_generic.html' %}
+
+{% load static %}
+
+{% block title %}Homepage{% endblock %}
+
+{% block extra_head %}
+    <!-- Link to the stylesheet specific to the homepage -->
+    <link rel="stylesheet" href="{% static 'css/homepage.css' %}">
+{% endblock %}
+
+{% block content %}
+    <main>
+        <h1>Welcome to the Homepage</h1>
+        <!-- Homepage content here -->
+    </main>
+{% endblock %}

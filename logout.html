@@ -1,0 +1,25 @@
+{% extends 'base_generic.html' %}
+
+{% load static %}
+
+{% block title %}Logged Out{% endblock %}
+
+{% block extra_head %}
+    <!-- Link to the stylesheet specific to the logout page -->
+    <link rel="stylesheet" href="{% static 'css/logout.css' %}">
+{% endblock %}
+
+{% block content %}
+    <header>
+        <h1>Goodbye!</h1>
+    </header>
+
+    <main>
+        <p>You have been successfully logged out.</p>
+        <p><a href="{% url 'social_media:home' %}">Return to the homepage</a></p>
+    </main>
+
+    <footer>
+        <p>&copy; {% now "Y" %} YourSiteName. All rights reserved.</p>
+    </footer>
+{% endblock %}

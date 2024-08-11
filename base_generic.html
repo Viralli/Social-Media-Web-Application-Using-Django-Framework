@@ -1,0 +1,46 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}My Social Media App{% endblock %}</title>
+    <!-- Default CSS link -->
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    {% block extra_head %}
+    <!-- Additional head elements -->
+    {% endblock %}
+</head>
+<body>
+    <header>
+        <!-- Add the logo image -->
+        <img src="{% static 'images/logo.png' %}" alt="My Social Media App Logo" id="logo">
+        <h1>Welcome to My Social Media App</h1>
+        <!-- Navigation Bar -->
+        <nav>
+            <ul>
+                <li><a href="{% url 'social_media:home' %}">Home</a></li>
+                <li><a href="{% url 'social_media:register' %}">Register</a></li>
+                <li><a href="{% url 'social_media:login' %}">Login</a></li>
+                <li><a href="{% url 'social_media:profile' %}">Profile</a></li>
+                <li><a href="{% url 'social_media:create_post' %}">Create Post</a></li>
+                <!-- Add more navigation links as needed -->
+            </ul>
+        </nav>
+    </header>
+    <main>
+        {% block content %}
+        <!-- Page-specific content will be rendered here -->
+        {% endblock %}
+    </main>
+    <!-- JavaScript files -->
+    {% block extra_js %}
+        <script src="{% static 'js/scripts.js' %}"></script>
+    {% endblock %}
+    <footer>
+        <!-- Footer content -->
+        <p>&copy; {% now "Y" %} My Social Media App. All rights reserved.</p>
+    </footer>
+</body>
+</html>

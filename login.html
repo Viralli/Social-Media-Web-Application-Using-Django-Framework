@@ -1,0 +1,19 @@
+{% extends 'base_generic.html' %}
+
+{% block title %}Login{% endblock %}
+
+{% block extra_head %}
+    {% load static %} <!-- Added line to load the static tag library -->
+    <!-- Link to the stylesheet specific to the login page, if needed -->
+    <link rel="stylesheet" href="{% static 'css/login.css' %}">
+{% endblock %}
+
+{% block content %}
+    <h2>Login to Your Account</h2>
+    <form method="post" action="{% url 'social_media:login' %}">
+        {% csrf_token %}
+        {{ form.as_p }} <!-- Renders the form fields with labels and inputs styled with <p> tags -->
+        <button type="submit">Login</button>
+    </form>
+    <p>Don't have an account? <a href="{% url 'social_media:register' %}">Register here</a></p>
+{% endblock %}

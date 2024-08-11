@@ -1,0 +1,22 @@
+{% extends 'base_generic.html' %}
+
+{% load static %}
+
+{% block title %}Contact Us{% endblock %}
+
+{% block extra_head %}
+    <!-- Link to the stylesheet specific to the contact page -->
+    <link rel="stylesheet" href="{% static 'css/contact.css' %}">
+{% endblock %}
+
+{% block content %}
+    <main>
+        <h1>Contact Us</h1>
+        <!-- Contact form -->
+        <form method="post" action="{% url 'social_media:contact' %}">
+            {% csrf_token %}
+            {{ form.as_p }}  <!-- Renders the form fields with labels and inputs styled with <p> tags -->
+            <button type="submit">Send</button>
+        </form>
+    </main>
+{% endblock %}

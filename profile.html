@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .profile-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .profile-picture {
+            width: 150px;
+            height: 150px;
+            border-radius: 75px;
+            object-fit: cover;
+            margin-right: 20px;
+        }
+        .profile-info {
+            flex: 1;
+        }
+        .profile-info h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .profile-info p {
+            margin: 5px 0;
+        }
+        .bio {
+            margin-top: 20px;
+        }
+        .logout-button {
+            display: block;
+            margin-top: 20px;
+            text-align: center;
+        }
+        .default-picture {
+            background-color: #ccc;
+            border-radius: 75px;
+            width: 150px;
+            height: 150px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="profile-header">
+            <!-- Display profile picture or a default placeholder if none is available -->
+            {% if profile.profile_picture %}
+                <img src="{{ profile.profile_picture.url }}" alt="{{ profile.user.username }}'s Profile Picture" class="profile-picture">
+            {% else %}
+                <div class="default-picture">No Picture</div>
+            {% endif %}
+            <div class="profile-info">
+                <!-- Display username -->
+                <h1>{{ profile.user.username }}</h1>
+                <!-- Display bio -->
+                <p class="bio">{{ profile.bio|default:"No bio available" }}</p>
+            </div>
+        </div>
+        <div class="logout-button">
+            <a href="{% url 'social_media:logout' %}">Logout</a>
+        </div>
+    </div>
+</body>
+</html>
